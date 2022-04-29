@@ -5,6 +5,9 @@ import lombok.Data;
 
 import java.util.Map;
 
+/**
+ * DTO to represent customer monthly reward points.
+ */
 @Data
 @Builder
 public class MonthlyRewardsDto {
